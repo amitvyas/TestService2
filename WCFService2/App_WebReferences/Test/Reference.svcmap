@@ -18,14 +18,14 @@
     <ServiceContractMappings />
   </ClientOptions>
   <MetadataSources>
-    <MetadataSource Address="http://10.10.1.185:9095/Service.svc" Protocol="http" SourceId="1" />
+    <MetadataSource Address="http://10.10.1.120:8065/Service.svc" Protocol="http" SourceId="1" />
   </MetadataSources>
   <Metadata>
-    <MetadataFile FileName="Service.xsd" MetadataType="Schema" ID="dbee4372-80a9-4081-affd-1eb3cae422df" SourceId="1" SourceUrl="http://10.10.1.185:9095/Service.svc?xsd=xsd1" />
-    <MetadataFile FileName="Service.disco" MetadataType="Disco" ID="fcf07cc5-a1ed-4c48-b67b-5d48a2655713" SourceId="1" SourceUrl="http://10.10.1.185:9095/Service.svc?disco" />
-    <MetadataFile FileName="Service1.xsd" MetadataType="Schema" ID="0dec776e-9595-420f-a565-76a2d9916e4b" SourceId="1" SourceUrl="http://10.10.1.185:9095/Service.svc?xsd=xsd0" />
-    <MetadataFile FileName="Service2.xsd" MetadataType="Schema" ID="92cff48c-b44b-42b9-8d2e-8ab4cc232e9d" SourceId="1" SourceUrl="http://10.10.1.185:9095/Service.svc?xsd=xsd2" />
-    <MetadataFile FileName="Service.wsdl" MetadataType="Wsdl" ID="cb621fdb-70c4-4215-9883-bce125dc2bbb" SourceId="1" SourceUrl="http://10.10.1.185:9095/Service.svc?wsdl" />
+    <MetadataFile FileName="Service1.xsd" MetadataType="Schema" ID="b902c743-6f44-4b2b-8846-9772320b5bf0" SourceId="1" SourceUrl="http://10.10.1.120:8065/Service.svc?xsd=xsd1" />
+    <MetadataFile FileName="Service12.xsd" MetadataType="Schema" ID="e3cc1c40-5e41-4ff9-a492-2a96a24197ca" SourceId="1" SourceUrl="http://10.10.1.120:8065/Service.svc?xsd=xsd0" />
+    <MetadataFile FileName="Service1.disco" MetadataType="Disco" ID="6e761ec2-3530-4704-8c07-1a88bf212497" SourceId="1" SourceUrl="http://10.10.1.120:8065/Service.svc?disco" />
+    <MetadataFile FileName="Service1.wsdl" MetadataType="Wsdl" ID="0dac4323-763f-48fb-a3b2-3874b1e10b27" SourceId="1" SourceUrl="http://10.10.1.120:8065/Service.svc?wsdl" />
+    <MetadataFile FileName="Service13.xsd" MetadataType="Schema" ID="f95b3c1b-a9c1-456c-bb54-941ba0650e2f" SourceId="1" SourceUrl="http://10.10.1.120:8065/Service.svc?xsd=xsd2" />
   </Metadata>
   <Extensions>
     <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
